@@ -1,0 +1,19 @@
+/* Revora theme */
+:root {
+  --pp-accent: #0d6b58;
+  --pp-accent-hover: #09574a;
+  --pp-accent2: #e8a92e;
+  --pp-ink: #152321;
+  --pp-muted: #4f5f5b;
+  --pp-paper: #f6f4ee;
+  --pp-tint: #ece9df;
+  --pp-card: #fffdf8;
+  --pp-line: #dcd8cc;
+  --pp-dark: #0b2a2a;
+  --pp-dark-ink: #f3f1e9;
+  --pp-serif: 'Fraunces', Georgia, serif;
+  --pp-sans: 'Inter', system-ui, sans-serif;
+  --pp-mono: 'IBM Plex Mono', ui-monospace, monospace;
+  --pp-display-weight: 500;
+}
+
